@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac9ee902-e980-4d6e-bbc3-97add658422c" name="Changes" comment="Keyword">
-      <change afterPath="$PROJECT_DIR$/Belajar LOOP Dalam kotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beajar baru.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Break &amp;Continu.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Keywerd.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Operator.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mencetak hello word.kt" beforeDir="false" afterPath="$PROJECT_DIR$/mencetak hello word.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +66,14 @@
       <recent name="D:\lATIHANKOTLIN\KOTLINBESIC\kotlin dasar\Basickotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Belajar_LOOP_Dalam_kotlinKt">
+  <component name="RunManager" selected="Kotlin.ArrayKt">
+    <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayKt" />
+      <module name="kotlin dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Beajar_baruKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Beajar_baruKt" />
       <module name="kotlin dasar" />
@@ -83,6 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Break__ContinuKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Break__ContinuKt" />
+      <module name="kotlin dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OperatorKt" />
       <module name="kotlin dasar" />
@@ -92,6 +104,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArrayKt" />
+        <item itemvalue="Kotlin.Break__ContinuKt" />
         <item itemvalue="Kotlin.Belajar_LOOP_Dalam_kotlinKt" />
         <item itemvalue="Kotlin.OperatorKt" />
         <item itemvalue="Kotlin.Beajar_baruKt" />
@@ -147,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702837835549</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Keyword">
+      <option name="closed" value="true" />
+      <created>1703841607902</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703841607902</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,5 +188,24 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="Keyword" />
     <option name="LAST_COMMIT_MESSAGE" value="Keyword" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/Break &amp;Continu.kt</url>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Break &amp;Continu.kt</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
