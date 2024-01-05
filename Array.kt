@@ -24,6 +24,14 @@ fun main(){
      */
     val nularay :Array<Int?> = arrayOfNulls(5)
     println(nularay.joinToString())
+//Atau:
+    val Peserta: Array<String?> = arrayOfNulls(10)
+    Peserta[0] = "Ridwan"
+    Peserta[1] = "Ahmad"
+    Peserta[2] = "Rizaldi"
+    Peserta[3] = "tOPIK"
+    println(Peserta[3])
+
     /*
     emptyArray():
     Fungsi ini digunakan untuk membuat array kosong dengan tipe elemen tertentu.

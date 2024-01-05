@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac9ee902-e980-4d6e-bbc3-97add658422c" name="Changes" comment="Keyword">
-      <change afterPath="$PROJECT_DIR$/Array.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Break &amp;Continu.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Range.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For Loop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fuction Prameter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fuction named argument.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fuction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function Default Argument.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function Return Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function Varargs Parameter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Single Expression Function.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit Returning Function.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Array.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,37 +76,37 @@
       <recent name="D:\lATIHANKOTLIN\KOTLINBESIC\kotlin dasar\Basickotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ArrayKt">
-    <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayKt" />
+  <component name="RunManager" selected="Kotlin.Function_Varargs_ParameterKt">
+    <configuration name="Fuction_named_argumentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fuction_named_argumentKt" />
       <module name="kotlin dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Beajar_baruKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beajar_baruKt" />
+    <configuration name="Function_Default_ArgumentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Function_Default_ArgumentKt" />
       <module name="kotlin dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Belajar_LOOP_Dalam_kotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Belajar_LOOP_Dalam_kotlinKt" />
+    <configuration name="Function_Return_TypeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Function_Return_TypeKt" />
       <module name="kotlin dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Break__ContinuKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Break__ContinuKt" />
+    <configuration name="Function_Varargs_ParameterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Function_Varargs_ParameterKt" />
       <module name="kotlin dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperatorKt" />
+    <configuration name="Single_Expression_FunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Single_Expression_FunctionKt" />
       <module name="kotlin dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ArrayKt" />
-        <item itemvalue="Kotlin.Break__ContinuKt" />
-        <item itemvalue="Kotlin.Belajar_LOOP_Dalam_kotlinKt" />
-        <item itemvalue="Kotlin.OperatorKt" />
-        <item itemvalue="Kotlin.Beajar_baruKt" />
+        <item itemvalue="Kotlin.Function_Varargs_ParameterKt" />
+        <item itemvalue="Kotlin.Single_Expression_FunctionKt" />
+        <item itemvalue="Kotlin.Function_Return_TypeKt" />
+        <item itemvalue="Kotlin.Fuction_named_argumentKt" />
+        <item itemvalue="Kotlin.Function_Default_ArgumentKt" />
       </list>
     </recent_temporary>
   </component>
